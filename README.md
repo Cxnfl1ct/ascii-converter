@@ -5,6 +5,7 @@ im too lazy to write readme
 
 ## how to compile
 idk just use ordinary gcc like this
+
 gcc -wall -o a.out a.c
 
 ### gpl 2.0
